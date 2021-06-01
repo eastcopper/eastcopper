@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 
-[![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=flat-square&logo=CSS3&logoColor=1572B6)]
+![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=flat-square&logo=CSS3&logoColor=1572B6)
 
