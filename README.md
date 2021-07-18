@@ -20,6 +20,8 @@
   <a href="#"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eastcopper)](https://github.com/eastcopper)
+  <a href="https://github.com/eastcopper">
+  <img align="center" src="https://github-readme-stats.eastcopper.vercel.app/api?usernameeastcopper&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
   
  ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
