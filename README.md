@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <h3>Tool</h3>
   <a href="#"><img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
