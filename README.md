@@ -1,4 +1,4 @@
-<body>
+<body style="color: black">
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ldh7228&fontAlignY=40&fontSize=100&desc=&descAlignY=65&animation=twinkling)
 
