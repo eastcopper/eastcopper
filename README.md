@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   <a href="#"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
   
+<br />
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eastcopper)](https://github.com/anuraghazra/github-readme-stats)
   
  ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
