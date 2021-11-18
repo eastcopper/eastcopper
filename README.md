@@ -23,7 +23,8 @@
   <a href="#"><img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/></a>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eastcopper&show_icons=true&theme=algolia&icon_color=1CB5E0)](https://github.com/eastcopper)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={eastcopper})](https://solved.ac/{eastcopper})
+[![Solved.ac
+eastcopper](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
   [![commitcombo](http://commitcombo.com/theme?user=eastcopper&theme=DeepOcean&v=1)](https://github.com/eastcopper/CommitCombo)
   
  ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:020F52,50:20BDFF,100:A5FECB&height=130)
