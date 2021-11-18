@@ -21,5 +21,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eastcopper&show_icons=true)](https://github.com/eastcopper)
+  [![commitcombo](http://commitcombo.com/theme?user=eastcopper&theme=DeepOcean&v=1)](https://github.com/eastcopper/CommitCombo)
   
  ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
