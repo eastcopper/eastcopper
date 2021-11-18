@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:020F52,50:20BDFF,100:A5FECB&height=300&section=header&text=ldh7228&fontColor=ffffff&fontAlignY=40&fontSize=100&desc=&descAlignY=65&animation=twinkling)
 
-<div align="center">
-
 <br /><br />
-  <h3>Tech</h3>
+  <h2>Tech</h2>
   
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
@@ -12,7 +10,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 <br />
-  <h3>Tool</h3>
+  <h2>Tool</h2>
   <a href="#"><img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white"/></a>
