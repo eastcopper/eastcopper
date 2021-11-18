@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:020F52,50:20BDFF,100:A5FECB&height=300&section=header&text=ldh7228&fontColor=ffffff&fontAlignY=40&fontSize=100&desc=&descAlignY=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:020F52,50:20BDFF,100:A5FECB&height=300&section=header&text=ldh7228&fontAlignY=40&fontSize=100&desc=(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧&descAlignY=65&animation=twinkling)
 
 <br /><br />
   <h2>💻Tech🔌</h2>
@@ -7,7 +7,6 @@
   <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
 
