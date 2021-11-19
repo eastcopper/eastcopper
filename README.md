@@ -2,7 +2,7 @@
 
 <br/><br/>
   <h2>💡project📄</h2>
-  🔥오목 게임 : https://eastcopper-omok.netlify.app🔥
+  🔥 오목 게임 : https://eastcopper-omok.netlify.app 🔥
 
 <br />
   <h2>💻Tech🖱</h2>
