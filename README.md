@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:020F52,50:20BDFF,100:A5FECB&height=300&section=header&text=ldh7228&fontColor=ffffff&fontAlignY=40&fontSize=100&desc=(๑•̀ㅂ•́)و&descAlignY=65&descSize=100&animation=scaleIn&rotate=-30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:020F52,50:20BDFF,100:A5FECB&height=300&section=header&text=ldh7228&fontColor=ffffff&fontAlignY=40&fontSize=100&desc=(๑•̀ㅂ•́)و&descAlignY=65&descSize=50&animation=scaleIn&rotate=-30)
 
 <br/><br/>
   <h2>💡project📄</h2>
