@@ -3,6 +3,7 @@
 <br/><br/>
   <h2>💡project📄</h2>
   🔥 인공지능 오목 게임 : https://eastcopper-omok.netlify.app 🔥
+  🔥 태양계 시뮬레이션 : https://eastcopper-solarsystem.netlify.app 🔥
 
 <br />
   <h2>💻Tech🖱</h2>
