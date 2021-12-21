@@ -16,6 +16,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-white?style=flat-square&logo=Node.js&logoColor=339933"/></a>
 
 <br />
   <h2>🔧Tool🔨</h2>
