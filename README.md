@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:020F52,50:20BDFF,100:A5FECB&height=300&section=header&text=ldh7228&fontColor=ffffff&fontAlignY=40&fontSize=100&desc=(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧&descAlignY=65&descSize=40&animation=scaleIn&rotate=-30)
 
 <br />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastcopper&show_icons=true&theme=algolia)](https://github.com/eastcopper/github-readme-stats)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eastcopper&show_icons=true&theme=algolia&icon_color=1CB5E0)](https://github.com/eastcopper)
 <br />
   <h2>💡project📄</h2>
  🎮 인공지능 오목 게임 : https://eastcopper-omok.netlify.app 🕹
@@ -36,7 +34,10 @@
   <a href="#"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/></a>
  <br />
-
+ 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastcopper&show_icons=true&theme=algolia)](https://github.com/eastcopper/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eastcopper&show_icons=true&theme=algolia&icon_color=1CB5E0)](https://github.com/eastcopper)
+<br />
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eastcopper&ring=0195DD&fire=0195DD&background=050F2C&dates=ffffff&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0195DD)](https://git.io/streak-stats)
   [![commitcombo](http://commitcombo.com/theme?user=eastcopper&theme=DeepOcean&v=1)](https://github.com/eastcopper)
 <br />
