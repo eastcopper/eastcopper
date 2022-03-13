@@ -1,14 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:020F52,50:20BDFF,100:A5FECB&height=300&section=header&text=ldh7228&fontColor=ffffff&fontAlignY=40&fontSize=100&desc=(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧&descAlignY=65&descSize=40&animation=scaleIn&rotate=-30)
 
-<br />
-<br />
+<br /><br />
   <h2>💡project📄</h2>
   🎮 인공지능 오목 게임 : https://eastcopper-omok.netlify.app 🕹
   <br />
   🌍 태양계 시뮬레이션 : https://eastcopper-solarsystem.netlify.app 🪐
   <br />
   🔊 오디오 스펙트럼 : https://eastcopper-audiospectrum.netlify.app 🎧
-  <br />
+  <br /><br />
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eastcopper&repo=omok&theme=algolia)](https://github.com/eastcopper/solarsystem)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eastcopper&repo=solarsystem_simulation&theme=algolia)](https://github.com/eastcopper/solarsystem)
