@@ -39,5 +39,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eastcopper&show_icons=true&theme=algolia&icon_color=1CB5E0)](https://github.com/eastcopper)
 [![commitcombo](http://commitcombo.com/theme?user=eastcopper&theme=DeepOcean&v=1)](https://github.com/eastcopper)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastcopper&show_icons=true&theme=algolia)](https://github.com/eastcopper/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eastcopper&repo=audio-spectrum)](https://github.com/eastcopper/audio-spectrum)
  
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:020F52,50:20BDFF,100:A5FECB&height=130)
