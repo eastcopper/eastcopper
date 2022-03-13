@@ -40,7 +40,7 @@
 [![commitcombo](http://commitcombo.com/theme?user=eastcopper&theme=DeepOcean&v=1)](https://github.com/eastcopper)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastcopper&show_icons=true&theme=algolia)](https://github.com/eastcopper/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eastcopper&ring=0195DD&fire=0195DD&background=050F2C&dates=ffffff&stroke=ffffff&currStreakNum=0195DD&sideNums=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eastcopper&ring=0195DD&fire=0195DD&background=050F2C&dates=ffffff&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 <br />
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=eastcopper&theme=react-dark)](https://github.com/eastcopper/github-readme-activity-graph)
   
