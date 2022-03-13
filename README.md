@@ -36,9 +36,9 @@
  <br />
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eastcopper&show_icons=true&theme=algolia&icon_color=1CB5E0)](https://github.com/eastcopper)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eastcopper&ring=0195DD&fire=0195DD&background=050F2C&dates=ffffff&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0195DD)](https://git.io/streak-stats)
-<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastcopper&show_icons=true&theme=algolia&layout=compact)](https://github.com/eastcopper/github-readme-stats)
+<br />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eastcopper&ring=0195DD&fire=0195DD&background=050F2C&dates=ffffff&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0195DD)](https://git.io/streak-stats)
 [![commitcombo](http://commitcombo.com/theme?user=eastcopper&theme=DeepOcean&v=1)](https://github.com/eastcopper)
 <br />
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=eastcopper&theme=react-dark)](https://github.com/eastcopper/github-readme-activity-graph)
