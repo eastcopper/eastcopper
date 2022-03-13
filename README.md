@@ -7,7 +7,7 @@
   🌍 태양계 시뮬레이션 : https://eastcopper-solarsystem.netlify.app 🪐
   <br />
   🔊 오디오 스펙트럼 : https://eastcopper-audiospectrum.netlify.app 🎧
-  <br /><br />
+<br /><br />
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eastcopper&repo=omok&theme=algolia)](https://github.com/eastcopper/solarsystem)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eastcopper&repo=solarsystem_simulation&theme=algolia)](https://github.com/eastcopper/solarsystem)
