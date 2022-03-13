@@ -35,6 +35,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/></a>
  <br />
  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastcopper&show_icons=true&theme=algolia)](https://github.com/eastcopper/github-readme-stats)
