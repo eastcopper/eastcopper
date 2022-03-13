@@ -37,6 +37,6 @@
  
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eastcopper&show_icons=true&theme=algolia&icon_color=1CB5E0)](https://github.com/eastcopper)
-  [![commitcombo](http://commitcombo.com/theme?user=eastcopper&theme=DeepOcean&v=1)](https://github.com/eastcopper/CommitCombo)
+[![commitcombo](http://commitcombo.com/theme?user=eastcopper&theme=DeepOcean&v=1)](https://github.com/eastcopper/CommitCombo)
  
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:020F52,50:20BDFF,100:A5FECB&height=130)
