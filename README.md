@@ -35,12 +35,12 @@
   <a href="#"><img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/></a>
  <br />
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eastcopper&show_icons=true&theme=algolia&icon_color=1CB5E0)](https://github.com/eastcopper)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastcopper&show_icons=true&theme=algolia&layout=compact)](https://github.com/eastcopper/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastcopper&show_icons=true&theme=algolia)](https://github.com/eastcopper/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eastcopper&show_icons=true&theme=algolia&icon_color=1CB5E0)](https://github.com/eastcopper)
 <br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eastcopper&ring=0195DD&fire=0195DD&background=050F2C&dates=ffffff&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0195DD)](https://git.io/streak-stats)
-[![commitcombo](http://commitcombo.com/theme?user=eastcopper&theme=DeepOcean&v=1)](https://github.com/eastcopper)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eastcopper&ring=0195DD&fire=0195DD&background=050F2C&dates=ffffff&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0195DD)](https://git.io/streak-stats)
+  [![commitcombo](http://commitcombo.com/theme?user=eastcopper&theme=DeepOcean&v=1)](https://github.com/eastcopper)
 <br />
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=eastcopper&theme=react-dark)](https://github.com/eastcopper/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=eastcopper&theme=react-dark)](https://github.com/eastcopper/github-readme-activity-graph)
   
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:020F52,50:20BDFF,100:A5FECB&height=130)
