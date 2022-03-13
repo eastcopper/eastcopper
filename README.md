@@ -9,6 +9,7 @@
   <br />
   🔊 오디오 스펙트럼 : https://eastcopper-audiospectrum.netlify.app 🎧
   
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eastcopper&repo=solarsystem&theme=algolia)](https://github.com/eastcopper/solarsystem)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eastcopper&repo=audio-spectrum&theme=algolia)](https://github.com/eastcopper/audio-spectrum)
 
 <br />
