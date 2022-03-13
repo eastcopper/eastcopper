@@ -3,11 +3,13 @@
 <br />
 <br />
   <h2>💡project📄</h2>
-    🎮 인공지능 오목 게임 : https://eastcopper-omok.netlify.app 🕹
+  <div>
+  🎮 인공지능 오목 게임 : https://eastcopper-omok.netlify.app 🕹
     <br />
     🌍 태양계 시뮬레이션 : https://eastcopper-solarsystem.netlify.app 🪐
     <br />
     🔊 오디오 스펙트럼 : https://eastcopper-audiospectrum.netlify.app 🎧
+  </div>
     
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eastcopper&show_icons=true&theme=algolia&icon_color=1CB5E0)](https://github.com/eastcopper)
 
