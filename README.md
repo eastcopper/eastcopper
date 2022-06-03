@@ -13,7 +13,7 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eastcopper&repo=omok&theme=algolia)](https://github.com/eastcopper/omok)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eastcopper&repo=solarsystem_simulation&theme=algolia)](https://github.com/eastcopper/solarsystem_simulation)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eastcopper&repo=audio-spectrum&theme=algolia)](https://github.com/eastcopper/audio-spectrum)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eastcopper&repo=audio-spectrum&theme=algolia)](https://github.com/eastcopper/fighting_game)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eastcopper&repo=fighting_game&theme=algolia)](https://github.com/eastcopper/fighting_game)
 
   <h2>💻Tech🖱</h2>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a>
