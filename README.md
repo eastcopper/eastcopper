@@ -5,8 +5,6 @@
   <br />
   🌍 태양계 시뮬레이션 : https://eastcopper-solarsystem.netlify.app 🪐
   <br />
-  🔊 오디오 스펙트럼 : https://eastcopper-audiospectrum.netlify.app 🎧
-  <br />
   🎮 격투 게임 : https://eastcopper-fighting-game.netlify.app/ 🕹
 <br /><br />
   
