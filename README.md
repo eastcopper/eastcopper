@@ -6,6 +6,8 @@
   🌍 태양계 시뮬레이션 : https://eastcopper-solarsystem.netlify.app 🪐
   <br />
   🎮 격투 게임 : https://eastcopper-fighting-game.netlify.app/ 🕹
+  <br />
+  📕 포트폴리오 : https://eastcopper-fighting-game.netlify.app/ 📑
 <br /><br />
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eastcopper&repo=omok&theme=algolia)](https://github.com/eastcopper/omok)
