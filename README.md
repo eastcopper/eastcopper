@@ -37,7 +37,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Npm-CB3837?style=flat-square&logo=Npm&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Json-000000?style=flat-square&logo=Json&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Redux-Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 <br />
 
   <h2>🔧Tool🔨</h2>
