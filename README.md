@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:020F52,50:20BDFF,100:A5FECB&height=300&section=header&text=ldh7228&fontColor=ffffff&fontAlignY=40&fontSize=100&desc=(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧&descAlignY=65&descSize=40&animation=scaleIn&rotate=-30)
 
 <h2>😀Introduce🖐</h2>
-매사에 긍정적이며 언제나 자신의 업무에 대하여 책임을 다하고 열정적으로 개발하는 프론트엔드 개발자 이동현입니다.
+<h3>매사에 긍정적이며 언제나 자신의 업무에 대하여 책임을 다하고 열정적으로 개발하는 <strong>프론트엔드 개발자 이동현</strong>입니다.</h3>
+<br/>
 <br/>
 📕 포트폴리오 : https://ldh-portfolio.netlify.app/ 📑
 <br/>
