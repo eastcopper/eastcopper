@@ -54,7 +54,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Adobe_Photoshop-000?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
  <br />
  <br />
  
