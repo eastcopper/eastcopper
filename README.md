@@ -27,7 +27,6 @@
   <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=CSharp&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Create React App-09D3AC?style=flat-square&logo=Create React App&logoColor=black"/></a>
@@ -55,6 +54,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=Unity&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Adobe_Photoshop-000?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
  <br />
  <br />
  
