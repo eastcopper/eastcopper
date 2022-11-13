@@ -1,13 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:020F52,50:20BDFF,100:A5FECB&height=300&section=header&text=ldh7228&fontColor=ffffff&fontAlignY=40&fontSize=100&desc=(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧&descAlignY=65&descSize=40&animation=scaleIn&rotate=-30)
 
+<h2>😀Introduce🖐</h2>
+매사에 긍정적이며 언제나 자신의 업무에 대하여 책임을 다하고 열정적으로 개발하는 프론트엔드 개발자 이동현입니다.
+<br/>
+📕 포트폴리오 : https://ldh-portfolio.netlify.app/ 📑
+<br/>
+📚 포트폴리오 사이트 : https://ldh-portfolio.netlify.app/ 📖
+<br /><br />
+
   <h2>💡project📄</h2>
   🎮 인공지능 오목 게임 : https://eastcopper-omok.netlify.app 🕹
   <br />
   🌍 태양계 시뮬레이션 : https://eastcopper-solarsystem.netlify.app 🪐
   <br />
   🎮 격투 게임 : https://eastcopper-fighting-game.netlify.app/ 🕹
-  <br />
-  📕 포트폴리오 : https://ldh-portfolio.netlify.app/ 📑
+  
 <br /><br />
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eastcopper&repo=omok&theme=algolia)](https://github.com/eastcopper/omok)
