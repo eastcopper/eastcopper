@@ -62,6 +62,6 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eastcopper&show_icons=true&theme=algolia&icon_color=1CB5E0)](https://github.com/eastcopper)
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eastcopper&background=050F2C&ring=0195DD&fire=0195DD&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0195DD&dates=ffffff)](https://git.io/streak-stats)
 <br />
-  //[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=eastcopper&theme=react-dark)](https://github.com/eastcopper/github-readme-activity-graph)
+  <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=eastcopper&theme=react-dark)](https://github.com/eastcopper/github-readme-activity-graph) -->
   
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:020F52,50:20BDFF,100:A5FECB&height=130)
