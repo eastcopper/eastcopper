@@ -7,6 +7,7 @@
 📚 포트폴리오 사이트 : https://ldh-portfolio.netlify.app/ 📖
 <br /><br />
 
+<!--
   <h2>💡project📄</h2>
   🎮 인공지능 오목 게임 : https://eastcopper-omok.netlify.app 🕹
   <br />
@@ -15,6 +16,7 @@
   🎮 격투 게임 : https://eastcopper-fighting-game.netlify.app/ 🕹
   
 <br /><br />
+-->
 
 <!--
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eastcopper&repo=omok&theme=algolia)](https://github.com/eastcopper/omok)
