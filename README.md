@@ -4,7 +4,7 @@
 <h3><p>매사에 긍정적이며 언제나 자신의 업무에 대하여 책임을 다하고 열정적으로 개발하는 <br/><strong>프론트엔드 개발자 이동현</strong>입니다.</p></h3>
 📕 포트폴리오 : https://carnation-pea-029.notion.site/LeeDongHyeon-b1f939647caa4afe8cd72086fa5f4e27 📑
 <br/>
-📚 포트폴리오 사이트 : https://my-portfolio-eight-liart.vercel.app/ 📖
+📚 포트폴리오 사이트 : https://my-portfolio-eastcopper.vercel.app/ 📖
 <!-- 
 <br/>
 📚 포트폴리오 사이트2 : https://ldh-portfolio.netlify.app/ 📖 
